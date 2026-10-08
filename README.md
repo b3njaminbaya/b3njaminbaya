@@ -50,6 +50,7 @@ I help businesses build, automate and grow with technology.
 
 | Project | What it is |
 |---|---|
+| [Nyuzi](https://github.com/b3njaminbaya/nyuzi) | Circular-fashion marketplace with donation-to-product traceability and M-Pesa checkout |
 | [Tafsiri AI](https://github.com/b3njaminbaya/tafsiri-ai) | Machine translation for Kenya's languages, with an active-learning review loop |
 | [Ordo](https://github.com/b3njaminbaya/ordo) | Project management with real-time collaboration |
 | [Micro-Donations Platform](https://github.com/b3njaminbaya/micro-donations-platform) | Small donations with M-Pesa, recurring giving and payouts |
