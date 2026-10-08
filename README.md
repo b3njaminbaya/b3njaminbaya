@@ -45,6 +45,7 @@ I help businesses build, automate and grow with technology.
 | [BuzRyde](https://benjaminbaya.com/work/buzryde) | Rider, driver and operations systems for a Canadian ride-hailing service |
 | [Esteric Kitchens & Interiors](https://benjaminbaya.com/work/esteric-kitchens) | Marketing website and CRM for a kitchen and interior design company |
 | [Melamart Enterprises](https://benjaminbaya.com/work/melamart-enterprises) | Website and hire-management system for a scaffolding company |
+| [Morara Home Furniture](https://benjaminbaya.com/work/morara-home-furniture) | Online store for a Nairobi furniture business |
 
 **Teevexa products** (shipped through my company, [Teevexa Ltd](https://www.teevexa.com))
 
