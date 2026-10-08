@@ -46,6 +46,15 @@ I help businesses build, automate and grow with technology.
 | [Esteric Kitchens & Interiors](https://benjaminbaya.com/work/esteric-kitchens) | Marketing website and CRM for a kitchen and interior design company |
 | [Melamart Enterprises](https://benjaminbaya.com/work/melamart-enterprises) | Website and hire-management system for a scaffolding company |
 
+**Teevexa products** (shipped through my company, [Teevexa Ltd](https://www.teevexa.com))
+
+| Project | What it is |
+|---|---|
+| [Teevexa Trace](https://benjaminbaya.com/work/teevexa-trace) | Supply chain traceability: two mobile apps on Google Play ([Trace](https://play.google.com/store/apps/details?id=com.teevexa.trace), [Field](https://play.google.com/store/apps/details?id=com.teevexa.field)) with offline event logging and public batch verification |
+| [TeeDesk](https://github.com/teevexa/teedesk) | Open-source, self-hosted AI customer support for web chat, WhatsApp and Telegram |
+| [Teevexa platform](https://github.com/teevexa/teevexa-platform) | The website, quote funnel, client portal and internal CRM behind teevexa.com |
+| [CyberGuard AI](https://github.com/teevexa/cyberguard-ai) | Open-source threat detection for teams without a security department |
+
 **Personal builds** (open on GitHub)
 
 | Project | What it is |
