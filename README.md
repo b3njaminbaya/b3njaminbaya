@@ -36,7 +36,7 @@ I help businesses build, automate and grow with technology.
 
 ## Selected work
 
-**Client and product work** (full case studies on my website)
+**Business and product work** (full case studies on my website)
 
 | Project | What it is |
 |---|---|
