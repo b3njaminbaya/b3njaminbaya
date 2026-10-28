@@ -20,7 +20,7 @@ I help businesses build, automate and grow with technology.
 
 ## About me
 
-- Head of Engineering at **Buzlin Holdings Inc**, leading the developers behind Buzlin (a marketplace and service-booking platform), BuzRyde (a ride-hailing service in Canada, run by the subsidiary BuzRyde Inc) and ArtisticBuz.
+- Head of Engineering at **[Buzlin Holdings Inc](https://www.buzlinholdingsinc.com)**, leading the developers behind [Buzlin](https://buzlin.ca) (a marketplace and service-booking platform), [BuzRyde](https://www.buzryde.com) (a ride-hailing service in Canada, run by the subsidiary BuzRyde Inc) and [ArtisticBuz](https://www.artisticbuz.com) (hair transplant estimates and clinic referrals).
 - Founder & Lead Software Engineer of **[Teevexa Ltd](https://www.teevexa.com)**, a software development company that delivers custom software, AI agents and production-ready apps for businesses.
 - Trained as a **chemical engineer**, which taught me to look at a business like a process: inputs, outputs, bottlenecks and the points where things quietly go wrong.
 - I start with the business problem, recommend only what is needed, and build solutions that keep working after launch.
